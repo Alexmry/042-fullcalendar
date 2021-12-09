@@ -13176,7 +13176,7 @@ var AGENDA_STOCK_SUB_DURATIONS = [
 fcViews.agenda = {
 	'class': AgendaView,
 	defaults: {
-		allDaySlot: true,
+		allDaySlot: false,
 		allDayText: 'all-day',
 		slotDuration: '00:30:00',
 		minTime: '00:00:00',
