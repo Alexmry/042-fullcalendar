@@ -19,4 +19,6 @@ Things you may want to cover:
 
 * Services (job queues, cache servers, search engines, etc.)
 
+* My Google search: Fullcalendar resize view ruby on rails, Fullcalendar load on week view ruby on rails
+
 * ...
