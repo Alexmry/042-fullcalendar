@@ -13,7 +13,7 @@ initialize_calendar = function() {
       slotMinutes: 30,
       selectable: true,
       selectHelper: true,
-      editable: true,
+      editable: false,
       eventLimit: true,
       events: '/events.json',
 
