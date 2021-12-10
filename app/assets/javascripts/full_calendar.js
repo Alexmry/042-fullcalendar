@@ -9,6 +9,7 @@ initialize_calendar = function() {
         right: 'agendaWeek,agendaDay'
       },
       defaultView: 'agendaWeek',
+      firstDay: 1,
       height: 500,
       slotMinutes: 30,
       selectable: true,
